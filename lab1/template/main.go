@@ -41,6 +41,8 @@ func main() {
 			input = scanner.Text()
 			//fmt.Println("captured:",input)
 			switch input {
+			case "q":
+				fallthrough
 			case "close":
 				fmt.Println("close.")
 				break L

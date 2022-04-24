@@ -1,0 +1,98 @@
+chaincode > p
+Prev. hash: 00008061422d0f39c285ccc41a4661f68e9ee67054d69dde2ffd9cb14dd12c03
+Data: [fourteenth block]
+Hash: 0001f946eda724282ea0b334e610cad5bae87105b5e46a6464ef3617a5620963
+PoW: true
+Bits: 15
+Nonce: 786
+
+Prev. hash: 0006a6fd0a0bb64f99f190767f842613c26852929fe043c3e4caebc027c5ece2
+Data: [thirteenth block]
+Hash: 00008061422d0f39c285ccc41a4661f68e9ee67054d69dde2ffd9cb14dd12c03
+PoW: true
+Bits: 14
+Nonce: 16688
+
+Prev. hash: 0001b8147517e551175300de9e1bb1e580b69999c49d541b487bd9656d256ea5
+Data: [twelve block]
+Hash: 0006a6fd0a0bb64f99f190767f842613c26852929fe043c3e4caebc027c5ece2
+PoW: true
+Bits: 13
+Nonce: 8862
+
+Prev. hash: 0012acc041113cdaebf23f152b670bcd482a2a3248b0d543af8fb67c852c61b3
+Data: [eleven block]
+Hash: 0001b8147517e551175300de9e1bb1e580b69999c49d541b487bd9656d256ea5
+PoW: true
+Bits: 12
+Nonce: 1797
+
+Prev. hash: 000352b066b2414072508fc7566d23201cff26b989f134afc5d81161b1614af0
+Data: [tenth block]
+Hash: 0012acc041113cdaebf23f152b670bcd482a2a3248b0d543af8fb67c852c61b3
+PoW: true
+Bits: 11
+Nonce: 422
+
+Prev. hash: 000c2d2f6b9d584ea30106d769574e588ddad7d590533a814e93e948da4a9649
+Data: [ninth block]
+Hash: 000352b066b2414072508fc7566d23201cff26b989f134afc5d81161b1614af0
+PoW: true
+Bits: 10
+Nonce: 484
+
+Prev. hash: 004b3b7a0e2a6afc733e890db92304c210ba1226045645197518cbe10065a77b
+Data: [eighth block]
+Hash: 000c2d2f6b9d584ea30106d769574e588ddad7d590533a814e93e948da4a9649
+PoW: true
+Bits: 9
+Nonce: 1013
+
+Prev. hash: 0045e0f2e75dda45788f9a0b274f68de3bf980718d357aff9cd8672a608d627a
+Data: [seventh block]
+Hash: 004b3b7a0e2a6afc733e890db92304c210ba1226045645197518cbe10065a77b
+PoW: true
+Bits: 8
+Nonce: 7
+
+Prev. hash: 01e819282d63a61e2f78206010670496c99b1068769f155bf60c979eec7e3314
+Data: [sixth block]
+Hash: 0045e0f2e75dda45788f9a0b274f68de3bf980718d357aff9cd8672a608d627a
+PoW: true
+Bits: 7
+Nonce: 63
+
+Prev. hash: 05ab70cdca6003e302aac3e85899c2b248977d12448cf37aafd6ba2ff153ca1b
+Data: [fifth block]
+Hash: 01e819282d63a61e2f78206010670496c99b1068769f155bf60c979eec7e3314
+PoW: true
+Bits: 6
+Nonce: 131
+
+Prev. hash: 001aac8abd799fe8f944b3ff041a32465ef94a3f292243958e3a246049da81a7
+Data: [fourth block]
+Hash: 05ab70cdca6003e302aac3e85899c2b248977d12448cf37aafd6ba2ff153ca1b
+PoW: true
+Bits: 5
+Nonce: 24
+
+Prev. hash: 0158de30e9757276386a47e927a214ccaf1aead35b412f2a371465eb6449375c
+Data: [third block]
+Hash: 001aac8abd799fe8f944b3ff041a32465ef94a3f292243958e3a246049da81a7
+PoW: true
+Bits: 7
+Nonce: 102
+
+Prev. hash: 0084088850ce3fc7f487c61bc7fb5e3d446636798501fa2eaa3260085f412e6f
+Data: [second block]
+Hash: 0158de30e9757276386a47e927a214ccaf1aead35b412f2a371465eb6449375c
+PoW: true
+Bits: 6
+Nonce: 45
+
+Prev. hash: 
+Data: [Genesis Block]
+Hash: 0084088850ce3fc7f487c61bc7fb5e3d446636798501fa2eaa3260085f412e6f
+PoW: true
+Bits: 5
+Nonce: 38

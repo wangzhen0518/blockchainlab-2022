@@ -93,6 +93,8 @@ func main() {
 					fmt.Printf("PoW: %s\n", strconv.FormatBool(pow.Validate()))
 					fmt.Printf("Bits: %d\n", block.Bits)
 					fmt.Printf("Nonce: %d\n", block.Nonce)
+					fmt.Printf("TargetBits %d\n", block.Bits)
+					fmt.Printf("Nonce %d\n", block.Nonce)
 					fmt.Println()
 
 					if len(block.PrevBlockHash) == 0 {
